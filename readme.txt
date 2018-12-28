@@ -1,1 +1,2 @@
-welcome to Angular 2
+Welcome to Angular 2:
+1. Angular is a Javascript Framework.
